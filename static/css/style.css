@@ -136,7 +136,9 @@ a:focus {
   list-style: none;
   padding: 0px;
   margin-top: 10px;
-	font-size: 40px;
+}
+#author ul.social-icon li {
+  font-size: 40px;
 }
 
 #author .social-icon li {
