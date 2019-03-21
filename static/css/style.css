@@ -227,6 +227,12 @@ a:focus {
 .post-content p {
 	font-size: 16px;
 }
+.post-content p img {
+	width: 33%;
+	display: block;
+	align: center;
+	margin: auto;
+}
 .pagination {
 	margin-top: 20px;
 }
@@ -255,4 +261,5 @@ table {
 	width: 100%;
 	max-width: 100%;
 }
+
 
